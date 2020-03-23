@@ -26,4 +26,5 @@ npm run serve
 ## LICENSE
 
 [MIT](./LICENSE) - for the webpack config I've done here.
+
 [MIT](./LICENSE.template.md) - original license of the phaser template.
